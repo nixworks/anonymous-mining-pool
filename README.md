@@ -1,2 +1,1 @@
-# anonymous-mining-pool
-匿名採礦池
+# anonymous mining pool
